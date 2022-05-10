@@ -33,3 +33,4 @@ int main(){
 	printf("\nN1 / N2 = %f", divide);
 	
 	return 0;
+}
